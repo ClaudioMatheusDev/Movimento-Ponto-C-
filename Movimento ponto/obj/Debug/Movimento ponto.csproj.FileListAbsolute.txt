@@ -1,0 +1,7 @@
+C:\Users\MuriloSTR\Documents\Movimento ponto\bin\Debug\Movimento ponto.exe.config
+C:\Users\MuriloSTR\Documents\Movimento ponto\bin\Debug\Movimento ponto.exe
+C:\Users\MuriloSTR\Documents\Movimento ponto\bin\Debug\Movimento ponto.pdb
+C:\Users\MuriloSTR\Documents\Movimento ponto\obj\Debug\Movimento ponto.csproj.AssemblyReference.cache
+C:\Users\MuriloSTR\Documents\Movimento ponto\obj\Debug\Movimento ponto.csproj.CoreCompileInputs.cache
+C:\Users\MuriloSTR\Documents\Movimento ponto\obj\Debug\Movimento ponto.exe
+C:\Users\MuriloSTR\Documents\Movimento ponto\obj\Debug\Movimento ponto.pdb
