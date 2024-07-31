@@ -1,7 +1,8 @@
 # Pequeno projeto em C#
 
-###Explicação do Código
-##Classe Ponto:
+### Explicação do Código
+
+## Classe Ponto:
 
 Define duas variáveis privadas x e y para representar as coordenadas do ponto.
 O construtor Ponto(int xInicial, int yInicial) inicializa essas coordenadas com os valores fornecidos pelo usuário.
